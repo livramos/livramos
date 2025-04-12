@@ -1,8 +1,8 @@
 # 💫 Hi! I'm Liv 
 
-📖computer engennier student in Puc Rio 
-👩‍💻 working as an intern in Eletrobrás in data analysis 
-🛹 like to post the projects that I develop in my free time
+📖computer engennier student in Puc Rio <br>
+👩‍💻 working as an intern in Eletrobrás in data analysis <br>
+🛹 like to post the projects that I develop in my free time<br>
 
 
 
