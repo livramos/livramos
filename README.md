@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi! You can call me Liv!🥰 sometimes I post some of the projects I've been<br>working on here. Now I'm working on a secret project and also developing Tom<br>(a music discord bot) 👩‍💻
+# 💫 Hi! I'm Liv 
+
+📖computer engennier student in Puc Rio 
+👩‍💻 working as an intern in Eletrobrás in data analysis 
+🛹 like to post the projects that I develop in my free time
+
+
 
 
 ## 🌐 Socials:
