@@ -9,7 +9,6 @@ Faço um pouco de tudo
 ![](https://streak-stats.demolab.com/?user=livramos&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=livramos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=livramos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
